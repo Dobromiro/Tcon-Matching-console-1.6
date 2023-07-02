@@ -1,0 +1,95 @@
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\baza mssql.exe.config
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\baza mssql.exe
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\baza mssql.pdb
+C:\Users\kierownik\source\repos\baza mssql\obj\Debug\baza mssql.csprojAssemblyReference.cache
+C:\Users\kierownik\source\repos\baza mssql\obj\Debug\baza mssql.exe
+C:\Users\kierownik\source\repos\baza mssql\obj\Debug\baza mssql.pdb
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\Google.Protobuf.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\MySql.Data.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\Renci.SshNet.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\System.Buffers.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\System.Memory.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\Zstandard.Net.dll
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\Google.Protobuf.pdb
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\Google.Protobuf.xml
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\MySql.Data.xml
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\Renci.SshNet.xml
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\System.Buffers.xml
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\System.Memory.xml
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kierownik\source\repos\baza mssql\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kierownik\source\repos\baza mssql\obj\Debug\baza mssql.csproj.CopyComplete
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\baza mssql.exe.config
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\baza mssql.exe
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\baza mssql.pdb
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\Google.Protobuf.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\MySql.Data.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\Renci.SshNet.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\System.Buffers.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\System.Memory.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\Zstandard.Net.dll
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\Google.Protobuf.pdb
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\Google.Protobuf.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\MySql.Data.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\Renci.SshNet.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\System.Buffers.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\System.Memory.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\obj\Debug\baza mssql.csprojAssemblyReference.cache
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\obj\Debug\baza mssql.csproj.CopyComplete
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\obj\Debug\baza mssql.exe
+C:\Users\kierownik\source\repos\Nowy folder (2)\baza mssql\baza mssql\obj\Debug\baza mssql.pdb
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\baza mssql.exe.config
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\baza mssql.exe
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\baza mssql.pdb
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\Google.Protobuf.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\MySql.Data.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\Renci.SshNet.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\System.Buffers.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\System.Memory.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\Zstandard.Net.dll
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\Google.Protobuf.pdb
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\Google.Protobuf.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\MySql.Data.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\Renci.SshNet.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\System.Buffers.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\System.Memory.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\obj\Debug\baza mssql.csproj.AssemblyReference.cache
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\obj\Debug\baza mssql.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\obj\Debug\baza mssql.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\obj\Debug\baza mssql.csproj.CopyComplete
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\obj\Debug\baza mssql.exe
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\TCON MATCHING\Tcon matching console\Tcon Matching console 1.6\obj\Debug\baza mssql.pdb

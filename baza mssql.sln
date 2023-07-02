@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baza mssql", "baza mssql.csproj", "{C0964E50-D6D4-48A2-81A1-0FB2B88CF9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0964E50-D6D4-48A2-81A1-0FB2B88CF9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0964E50-D6D4-48A2-81A1-0FB2B88CF9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0964E50-D6D4-48A2-81A1-0FB2B88CF9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0964E50-D6D4-48A2-81A1-0FB2B88CF9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E47301DD-2C66-4C71-A208-8CE2FD2BED8D}
+	EndGlobalSection
+EndGlobal

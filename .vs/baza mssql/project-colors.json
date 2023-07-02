@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0964e50-d6d4-48a2-81a1-0fb2b88cf9fb": {
+      "ProjectGuid": "c0964e50-d6d4-48a2-81a1-0fb2b88cf9fb",
+      "DisplayName": "baza mssql",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
